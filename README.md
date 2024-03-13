@@ -1,2 +1,3 @@
 # PyASMLang
-A py land like asm
+A py lang like asm像asm一样的土地
+Doc in lang.py
